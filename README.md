@@ -1,4 +1,5 @@
 # EY Project Case Overview
+https://docs.google.com/presentation/d/1BLpY7JhGLP44niNujRPv2x7mSs3oujkfczP2NepHrZY/edit?usp=sharing
 
 ## P1: Weapon
 Datasets: `data/weapons.csv`, `data/murderdata.csv`
