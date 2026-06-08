@@ -8,3 +8,7 @@ Weapon: most likely the knife. One trace also looks revolver-related, so a gun w
 The extra clue is that Lando Norris was almost certainly involved in the cover-up: his phone is at the exact burn-site coordinate within minutes, and Charles sent him two 2,252,250 transfers on 11-10-2019.
 
 Verification: uv run solve_case.py passes and prints the full evidence-backed reconstruction.
+
+Transaction fraud :
+
+The strongest flagged links include Charles Leclerc -> Lando Norris twice for 2,252,250, then Lando Norris -> Carlos Sainz for 2,252,100.
