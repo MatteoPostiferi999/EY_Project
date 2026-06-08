@@ -13,6 +13,7 @@ Datasets: `data/GPSData.csv`, `data/112Calls.csv`
 
 - If you trace the gps of the car, there's a location where car is parked for several minutes.
 - At that location, 2 emegrency calls are made reporting an armed subject at 4:04:29 and 4:06:08
+  The locatuons are 35.152215 136.893125 and 35.152212 136.893110
 
 What they are looking for:
 
