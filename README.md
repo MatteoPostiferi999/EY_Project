@@ -11,6 +11,9 @@ Datasets: `data/GPSData.csv`, `data/112Calls.csv`
 - Last location (gps coordinates) of car matches one fire related emegrecy call exactly
 - This call was made at 4:40:20 at 35.069901, 136.881876
 
+- If you trace the gps of the car, there's a location where car is parked for several minutes.
+- At that location, 2 emegrency calls are made reporting an armed subject at 4:04:29 and 4:06:08
+
 What they are looking for:
 
 ## P3: Who
