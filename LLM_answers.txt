@@ -1,0 +1,10 @@
+The strongest answer from the EDA is:
+
+Who: Charles Leclerc.
+Why: jealousy and teammate rivalry. His tweets on October 10, 2019 say things like he’s tired of being “number two” and that he’ll beat Vettel in Japan.
+Where: near 35.152212, 136.893110, which matches the 04:06:08 EMS: ARMED SUBJECT call on October 12, 2019.
+When: shortly after 04:06 on 12-10-2019, before the rental car reaches the burn site at 04:36 and before the 04:40:20 vehicle-fire call.
+Weapon: most likely the knife. One trace also looks revolver-related, so a gun was probably present too, but the knife is the clearest murder-weapon match.
+The extra clue is that Lando Norris was almost certainly involved in the cover-up: his phone is at the exact burn-site coordinate within minutes, and Charles sent him two 2,252,250 transfers on 11-10-2019.
+
+Verification: uv run solve_case.py passes and prints the full evidence-backed reconstruction.
